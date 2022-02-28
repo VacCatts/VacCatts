@@ -1,4 +1,4 @@
-- hi im vaccat
+hi im vaccat
 
 coding languages i know (usage from first to last):
 - C#
