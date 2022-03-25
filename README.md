@@ -1,10 +1,12 @@
-hi im vaccat
+<h1>hi im vaccat</h1>
+<hr>
 
-coding languages i know (usage from first to last):
-- C#
-- JS
-- HTML
-- CSS
-- Python
-- C++
-- Java
+<ul>
+  i can code in
+  <il>
+    - C#
+    - JS, HTML, CSS
+    - Python
+    - Java
+  </il>
+</ul>
