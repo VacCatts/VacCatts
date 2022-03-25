@@ -4,9 +4,9 @@
 <ul>
   i can code in
   <il>
-    - C#
-    - JS, HTML, CSS
-    - Python
-    - Java
+    - C# <br>
+    - JS, HTML, CSS <br>
+    - Python <br>
+    - Java <br>
   </il>
 </ul>
